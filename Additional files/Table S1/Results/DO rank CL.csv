@@ -1,0 +1,197 @@
+"DO","averege.RfD","times"
+"connective tissue cancer",1.10370003601526e-05,3
+"osteosarcoma",7.63473441339866e-06,2
+"neuroendocrine carcinoma",7.73842476238542e-06,2
+"thalassemia",8.00299978496496e-06,2
+"bone cancer",8.23800992015311e-06,2
+"kidney cancer",9.27983738583966e-06,2
+"renal carcinoma",9.30927344030476e-06,2
+"autosomal recessive disease",1.06058802920328e-05,2
+"hereditary breast ovarian cancer",1.17782572478332e-05,2
+"breast carcinoma",1.20312179012624e-05,2
+"toxic encephalopathy",1.24887495959601e-05,2
+"mammary Paget's disease",1.41332852176251e-05,2
+"cholestasis",1.50197269292254e-05,2
+"craniosynostosis",8.65225567511112e-07,1
+"bladder carcinoma",1.07846764155222e-06,1
+"chondrosarcoma",1.19920633967425e-06,1
+"sarcoma",1.47508400860291e-06,1
+"organ system benign neoplasm",2.32558670892645e-06,1
+"adenocarcinoma",8.73910156743105e-06,1
+"autoimmune disease of gastrointestinal tract",8.80900357432664e-06,1
+"urinary system cancer",9.46892432418732e-06,1
+"HELLP syndrome",9.49602604912813e-06,1
+"myelofibrosis",9.76615465206254e-06,1
+"demyelinating disease",9.86699012017216e-06,1
+"multiple sclerosis",9.86699012017216e-06,1
+"bile duct cancer",9.97317348393456e-06,1
+"bile duct carcinoma",9.97317348393456e-06,1
+"bone marrow cancer",9.98492241311476e-06,1
+"myeloma",9.98492241311476e-06,1
+"musculoskeletal system cancer",1.00535206068134e-05,1
+"intrahepatic cholestasis",1.02168959636825e-05,1
+"pulmonary sarcoidosis",1.02168959636825e-05,1
+"aplastic anemia",1.02466839241189e-05,1
+"lymphatic system disease",1.02540032022151e-05,1
+"auditory system disease",1.02953567405211e-05,1
+"hepatic vascular disease",1.05686367802699e-05,1
+"renal cell carcinoma",1.07246213067944e-05,1
+"gestational diabetes",1.09523103770169e-05,1
+"liver cirrhosis",1.10273528040674e-05,1
+"sickle cell anemia",1.10306197935495e-05,1
+"autoimmune disease of the nervous system",1.11578755313947e-05,1
+"autoimmune disease of urogenital tract",1.11710165571741e-05,1
+"primary biliary cirrhosis",1.11710165571741e-05,1
+"open-angle glaucoma",1.12500845361167e-05,1
+"anemia",1.12677320748699e-05,1
+"bone resorption disease",1.12699385508377e-05,1
+"osteoporosis",1.12699385508377e-05,1
+"salivary gland adenoid cystic carcinoma",1.12948517776761e-05,1
+"cell type benign neoplasm",1.23682105089452e-05,1
+"coronary artery disease",1.31176960576362e-05,1
+"inherited metabolic disorder",1.34437795486344e-05,1
+"hematopoietic system disease",1.34882839983111e-05,1
+"bone remodeling disease",1.37429072058065e-05,1
+"biliary tract cancer",1.38819160942358e-05,1
+"fatty liver disease",1.40126035190685e-05,1
+"lipid storage disease",1.40126035190685e-05,1
+"bile duct disease",1.55411503221121e-05,1
+"biliary tract disease",1.55411503221121e-05,1
+"breast adenocarcinoma",1.56530455511395e-05,1
+"nutrition disease",1.60762694608271e-05,1
+"overnutrition",1.60762694608271e-05,1
+"autonomic nervous system neoplasm",1.6233139453051e-05,1
+"neuroblastoma",1.6233139453051e-05,1
+"peripheral nervous system neoplasm",1.6301692746695e-05,1
+"hypospadias",1.7711086608175e-05,1
+"obesity",1.81955866066418e-05,1
+"pyelitis",1.12115386888737e-05,0
+"pyelonephritis",1.12115386888737e-05,0
+"chronic leukemia",1.18452977035669e-05,0
+"polycystic ovary syndrome",1.2319391335057e-05,0
+"familial combined hyperlipidemia",1.2405416507425e-05,0
+"acute leukemia",1.25122288379217e-05,0
+"multiple myeloma",1.2667853410495e-05,0
+"female reproductive organ cancer",1.28891995856054e-05,0
+"nephritis",1.30035057055301e-05,0
+"movement disease",1.30662661531745e-05,0
+"male reproductive system disease",1.31713610919308e-05,0
+"glaucoma",1.33943602703549e-05,0
+"colon carcinoma",1.35058611252787e-05,0
+"familial hyperlipidemia",1.35338080816935e-05,0
+"atherosclerosis",1.35894527445807e-05,0
+"hepatitis B",1.36535239844793e-05,0
+"retinal degeneration",1.3695822789211e-05,0
+"kidney disease",1.37956033792614e-05,0
+"arteriosclerosis",1.3795993193779e-05,0
+"arteriosclerotic cardiovascular disease",1.3795993193779e-05,0
+"primary bacterial infectious disease",1.38101818661852e-05,0
+"lipid metabolism disorder",1.39171879955921e-05,0
+"acute myocardial infarction",1.39787737017879e-05,0
+"collagen disease",1.4164623672525e-05,0
+"bacterial infectious disease",1.41936433637284e-05,0
+"myocardial infarction",1.42437488814981e-05,0
+"urinary system disease",1.43283936237626e-05,0
+"leukocyte disease",1.43799601376592e-05,0
+"retinal disease",1.44391036710944e-05,0
+"endocrine pancreas disease",1.46716895323041e-05,0
+"hyperinsulinism",1.46716895323041e-05,0
+"kidney failure",1.48901662863987e-05,0
+"malaria",1.50561059187085e-05,0
+"thrombophilia",1.51539873973182e-05,0
+"Plasmodium falciparum malaria",1.5164598469256e-05,0
+"prostate cancer",1.5215725525111e-05,0
+"male reproductive organ cancer",1.53196598678659e-05,0
+"hepatitis C",1.53264136985201e-05,0
+"proteinuria",1.5578111395386e-05,0
+"brain disease",1.59067938336488e-05,0
+"pancreatitis",1.62470733030141e-05,0
+"lysosomal storage disease",1.6354971626364e-05,0
+"parasitic infectious disease",1.6494408498791e-05,0
+"hepatitis",1.65889966972756e-05,0
+"amyotrophic lateral sclerosis",1.67100575924413e-05,0
+"adenoma",1.68280472971736e-05,0
+"endocrine system disease",1.68377302826736e-05,0
+"motor neuron disease",1.68461125535824e-05,0
+"lymphoblastic leukemia",1.69620788599591e-05,0
+"esophageal cancer",1.69679680826012e-05,0
+"esophageal carcinoma",1.69679680826012e-05,0
+"hemorrhagic disease",1.73155786099187e-05,0
+"ovarian cancer",1.73651598026176e-05,0
+"pancreas disease",1.74886610568532e-05,0
+"congestive heart failure",1.75976425974637e-05,0
+"head and neck cancer",1.7607708847358e-05,0
+"head and neck carcinoma",1.7607708847358e-05,0
+"colorectal cancer",1.78543181905279e-05,0
+"intestinal cancer",1.78543181905279e-05,0
+"large intestine cancer",1.78543181905279e-05,0
+"parasitic protozoa infectious disease",1.79093566502068e-05,0
+"colon cancer",1.80179922439123e-05,0
+"colonic benign neoplasm",1.82212291173509e-05,0
+"blood coagulation disease",1.84493218469136e-05,0
+"lung disease",1.85116106390121e-05,0
+"reproductive system disease",1.85923341392656e-05,0
+"pre-eclampsia",1.89107026143412e-05,0
+"amyloidosis",1.89532135865797e-05,0
+"ischemia",1.896062892924e-05,0
+"intestinal benign neoplasm",1.90980842401187e-05,0
+"lung small cell carcinoma",1.93361912009483e-05,0
+"non-small cell lung carcinoma",2.0065064272455e-05,0
+"lipomatous cancer",2.02285728980325e-05,0
+"liposarcoma",2.02285728980325e-05,0
+"Parkinson's disease",2.03125697274837e-05,0
+"periodontitis",2.03176866514963e-05,0
+"malignant ovarian surface epithelial-stromal neoplasm",2.05975295103094e-05,0
+"ovarian carcinoma",2.05975295103094e-05,0
+"ovary epithelial cancer",2.05975295103094e-05,0
+"gastrointestinal system benign neoplasm",2.07383583488053e-05,0
+"chronic obstructive pulmonary disease",2.11591364553499e-05,0
+"oral cavity cancer",2.15025334567369e-05,0
+"salivary gland cancer",2.15025334567369e-05,0
+"salivary gland carcinoma",2.15025334567369e-05,0
+"lung adenocarcinoma",2.16002507096975e-05,0
+"obstructive lung disease",2.1663732554587e-05,0
+"mouth disease",2.18404173295777e-05,0
+"periodontal disease",2.18404173295777e-05,0
+"tooth disease",2.18404173295777e-05,0
+"Alzheimer's disease",2.18923635981173e-05,0
+"tauopathy",2.18923635981173e-05,0
+"malignant glioma",2.1957206775539e-05,0
+"prostate carcinoma",2.20001681661209e-05,0
+"essential hypertension",2.28356406238415e-05,0
+"brain infarction",2.29926351829648e-05,0
+"cerebral infarction",2.29926351829648e-05,0
+"retinal cancer",2.3330981085788e-05,0
+"cerebrovascular disease",2.358016754451e-05,0
+"hyperandrogenism",2.36485274034693e-05,0
+"essential tremor",2.38999112203486e-05,0
+"nasopharynx carcinoma",2.39544679370453e-05,0
+"pharynx cancer",2.39544679370453e-05,0
+"mastocytosis",2.44080020640401e-05,0
+"systemic mastocytosis",2.44080020640401e-05,0
+"sex differentiation disease",2.46234242076622e-05,0
+"leiomyosarcoma",2.47333053789953e-05,0
+"smooth muscle cancer",2.47333053789953e-05,0
+"ocular cancer",2.51061539451884e-05,0
+"retinal cell cancer",2.51061539451884e-05,0
+"retinoblastoma",2.51061539451884e-05,0
+"sensory system cancer",2.51061539451884e-05,0
+"gallbladder adenocarcinoma",2.54189445620158e-05,0
+"gallbladder cancer",2.56848217202503e-05,0
+"gallbladder carcinoma",2.56848217202503e-05,0
+"hyperostosis",2.64097651260735e-05,0
+"gonadal disease",2.68712856188437e-05,0
+"mucoepidermoid carcinoma",2.76849639367731e-05,0
+"heart valve disease",2.93057312683879e-05,0
+"brucellosis",2.96876817450619e-05,0
+"mitral valve disease",3.05296026962198e-05,0
+"ischemic bone disease",3.12499138323052e-05,0
+"vein disease",3.18173472437149e-05,0
+"prion disease",3.22985682444238e-05,0
+"osteonecrosis",3.2523288289843e-05,0
+"infertility",3.29925045158877e-05,0
+"brain ischemia",3.35765470255694e-05,0
+"pulmonary embolism",3.55845733892131e-05,0
+"nephrosis",3.63128481727984e-05,0
+"nephrotic syndrome",3.63128481727984e-05,0
+"inherited blood coagulation disease",4.66631805434787e-05,0
