@@ -1,0 +1,197 @@
+DO,times,averege.RfD
+connective tissue cancer,3,0.0000138
+autosomal recessive disease,3,0.0000154
+osteosarcoma,2,0.0000121
+bone cancer,2,0.0000123
+musculoskeletal system cancer,2,0.0000131
+thalassemia,2,0.0000153
+neuroendocrine carcinoma,2,0.0000156
+anemia,2,0.0000166
+breast carcinoma,2,0.0000184
+bone marrow cancer,2,0.0000186
+myeloma,2,0.0000186
+hereditary breast ovarian cancer,2,0.0000216
+autonomic nervous system neoplasm,2,0.0000258
+neuroblastoma,2,0.0000258
+peripheral nervous system neoplasm,2,0.0000258
+mammary Paget's disease,2,0.0000296
+breast adenocarcinoma,2,0.0000307
+craniosynostosis,1,0.0000019
+bladder carcinoma,1,0.0000021
+chondrosarcoma,1,0.0000021
+sarcoma,1,0.0000022
+organ system benign neoplasm,1,0.0000024
+adenocarcinoma,1,0.0000136
+demyelinating disease,1,0.0000136
+multiple sclerosis,1,0.0000136
+urinary system cancer,1,0.0000136
+renal cell carcinoma,1,0.0000138
+renal carcinoma,1,0.0000141
+kidney cancer,1,0.0000142
+autoimmune disease of gastrointestinal tract,1,0.0000149
+cell type benign neoplasm,1,0.0000171
+colon carcinoma,1,0.0000184
+bone resorption disease,1,0.0000186
+osteoporosis,1,0.0000186
+bile duct cancer,1,0.0000186
+bile duct carcinoma,1,0.0000186
+liver cirrhosis,1,0.0000193
+bone remodeling disease,1,0.0000195
+colon cancer,1,0.0000203
+myelofibrosis,1,0.0000203
+hematopoietic system disease,1,0.0000207
+hepatic vascular disease,1,0.0000214
+aplastic anemia,1,0.0000216
+coronary artery disease,1,0.0000217
+lymphatic system disease,1,0.0000217
+auditory system disease,1,0.0000218
+intrahepatic cholestasis,1,0.0000221
+pulmonary sarcoidosis,1,0.0000221
+chronic leukemia,1,0.0000228
+biliary tract cancer,1,0.0000232
+polycystic ovary syndrome,1,0.0000235
+toxic encephalopathy,1,0.0000240
+inherited metabolic disorder,1,0.0000251
+salivary gland adenoid cystic carcinoma,1,0.0000253
+nutrition disease,1,0.0000255
+overnutrition,1,0.0000255
+pancreatitis,1,0.0000270
+cholestasis,1,0.0000297
+bile duct disease,1,0.0000299
+biliary tract disease,1,0.0000299
+obesity,1,0.0000342
+HELLP syndrome,0,0.0000192
+colorectal cancer,0,0.0000209
+intestinal cancer,0,0.0000209
+large intestine cancer,0,0.0000209
+female reproductive organ cancer,0,0.0000219
+autoimmune disease of urogenital tract,0,0.0000224
+primary biliary cirrhosis,0,0.0000224
+sickle cell anemia,0,0.0000229
+prostate cancer,0,0.0000231
+atherosclerosis,0,0.0000232
+male reproductive organ cancer,0,0.0000232
+arteriosclerosis,0,0.0000233
+arteriosclerotic cardiovascular disease,0,0.0000233
+autoimmune disease of the nervous system,0,0.0000233
+gestational diabetes,0,0.0000234
+primary bacterial infectious disease,0,0.0000234
+open-angle glaucoma,0,0.0000234
+movement disease,0,0.0000235
+bacterial infectious disease,0,0.0000237
+familial hyperlipidemia,0,0.0000237
+multiple myeloma,0,0.0000238
+urinary system disease,0,0.0000240
+lipid metabolism disorder,0,0.0000240
+familial combined hyperlipidemia,0,0.0000240
+kidney disease,0,0.0000240
+leukocyte disease,0,0.0000241
+acute leukemia,0,0.0000244
+male reproductive system disease,0,0.0000244
+adenoma,0,0.0000246
+acute myocardial infarction,0,0.0000246
+kidney failure,0,0.0000246
+brain disease,0,0.0000247
+nephritis,0,0.0000251
+pyelitis,0,0.0000252
+pyelonephritis,0,0.0000252
+myocardial infarction,0,0.0000253
+glaucoma,0,0.0000254
+hepatitis B,0,0.0000256
+periodontitis,0,0.0000258
+fatty liver disease,0,0.0000263
+lipid storage disease,0,0.0000263
+mouth disease,0,0.0000264
+periodontal disease,0,0.0000264
+tooth disease,0,0.0000264
+retinal degeneration,0,0.0000270
+lymphoblastic leukemia,0,0.0000270
+hepatitis C,0,0.0000275
+retinal disease,0,0.0000278
+hepatitis,0,0.0000278
+blood coagulation disease,0,0.0000282
+endocrine system disease,0,0.0000286
+collagen disease,0,0.0000287
+endocrine pancreas disease,0,0.0000290
+hyperinsulinism,0,0.0000290
+reproductive system disease,0,0.0000291
+malaria,0,0.0000294
+ovarian cancer,0,0.0000298
+pancreas disease,0,0.0000303
+lysosomal storage disease,0,0.0000303
+parasitic infectious disease,0,0.0000303
+congestive heart failure,0,0.0000304
+thrombophilia,0,0.0000306
+pre-eclampsia,0,0.0000315
+Plasmodium falciparum malaria,0,0.0000315
+proteinuria,0,0.0000321
+esophageal cancer,0,0.0000326
+esophageal carcinoma,0,0.0000326
+hemorrhagic disease,0,0.0000328
+parasitic protozoa infectious disease,0,0.0000337
+head and neck cancer,0,0.0000342
+head and neck carcinoma,0,0.0000342
+lung small cell carcinoma,0,0.0000348
+amyotrophic lateral sclerosis,0,0.0000351
+lung disease,0,0.0000351
+motor neuron disease,0,0.0000356
+hypospadias,0,0.0000359
+prostate carcinoma,0,0.0000365
+ischemia,0,0.0000367
+non-small cell lung carcinoma,0,0.0000373
+amyloidosis,0,0.0000375
+malignant ovarian surface epithelial-stromal neoplasm,0,0.0000376
+ovarian carcinoma,0,0.0000376
+ovary epithelial cancer,0,0.0000376
+lung adenocarcinoma,0,0.0000380
+Alzheimer's disease,0,0.0000382
+tauopathy,0,0.0000382
+Parkinson's disease,0,0.0000388
+essential hypertension,0,0.0000394
+chronic obstructive pulmonary disease,0,0.0000411
+lipomatous cancer,0,0.0000412
+liposarcoma,0,0.0000412
+obstructive lung disease,0,0.0000417
+colonic benign neoplasm,0,0.0000419
+oral cavity cancer,0,0.0000429
+salivary gland cancer,0,0.0000429
+salivary gland carcinoma,0,0.0000429
+intestinal benign neoplasm,0,0.0000429
+gastrointestinal system benign neoplasm,0,0.0000442
+malignant glioma,0,0.0000482
+essential tremor,0,0.0000483
+nasopharynx carcinoma,0,0.0000485
+pharynx cancer,0,0.0000485
+retinal cancer,0,0.0000488
+hyperandrogenism,0,0.0000491
+brain infarction,0,0.0000494
+cerebral infarction,0,0.0000494
+cerebrovascular disease,0,0.0000505
+sex differentiation disease,0,0.0000508
+gonadal disease,0,0.0000541
+leiomyosarcoma,0,0.0000548
+smooth muscle cancer,0,0.0000548
+ocular cancer,0,0.0000555
+retinal cell cancer,0,0.0000555
+retinoblastoma,0,0.0000555
+sensory system cancer,0,0.0000555
+mastocytosis,0,0.0000580
+systemic mastocytosis,0,0.0000580
+hyperostosis,0,0.0000598
+heart valve disease,0,0.0000603
+gallbladder adenocarcinoma,0,0.0000606
+gallbladder cancer,0,0.0000613
+gallbladder carcinoma,0,0.0000613
+mucoepidermoid carcinoma,0,0.0000632
+brucellosis,0,0.0000688
+ischemic bone disease,0,0.0000699
+prion disease,0,0.0000701
+osteonecrosis,0,0.0000718
+mitral valve disease,0,0.0000727
+vein disease,0,0.0000727
+infertility,0,0.0000727
+brain ischemia,0,0.0000731
+pulmonary embolism,0,0.0000734
+nephrosis,0,0.0000777
+nephrotic syndrome,0,0.0000777
+inherited blood coagulation disease,0,0.0001131
